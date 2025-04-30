@@ -23,3 +23,6 @@ Sources:
 [Graduate Scheme](https://github.com/RubyNixx/Career_Day_Content/blob/main/Poster%20for%20Career%20Days%20at%20schools%20NHSE%20Analyst%20-%20Graduate%20Scheme2.docx)
 
 [Apprenticeship Website](https://github.com/RubyNixx/Career_Day_Content/blob/main/Apprenticeship%20Website.docx)
+
+![1745416224477](https://github.com/user-attachments/assets/4a5ce2e7-14a1-4ff2-95fd-a8f7494d85a8)
+
