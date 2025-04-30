@@ -17,3 +17,9 @@ Sources:
 - https://findapprenticeshiptraining.apprenticeships.education.gov.uk/courses/80?location=London%20Fields,%20Greater%20London
 
 <b>Printed in A4 format:</b>
+
+[DIG Activities](https://github.com/RubyNixx/Career_Day_Content/blob/main/NHS%20DIG%20Activities%20and%20Website%20-%20Career%20Days.docx)
+
+[Graduate Scheme](https://github.com/RubyNixx/Career_Day_Content/blob/main/Poster%20for%20Career%20Days%20at%20schools%20NHSE%20Analyst%20-%20Graduate%20Scheme2.docx)
+
+[Apprenticeship Website](https://github.com/RubyNixx/Career_Day_Content/blob/main/Apprenticeship%20Website.docx)
