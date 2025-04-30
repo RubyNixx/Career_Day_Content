@@ -12,10 +12,6 @@ Includes some posters as examples of wider NHS analytical work from [HACA 24 Pos
 
 [Step into the NHS](https://github.com/RubyNixx/Career_Day_Content/blob/main/Step%20into%20the%20NHS%20-%20Poster%20for%20Career%20Days%20at%20schools%20NHSE%20Analyst.docx)
 
-Sources:
-- https://www.stepintothenhs.nhs.uk/careers
-- https://findapprenticeshiptraining.apprenticeships.education.gov.uk/courses/80?location=London%20Fields,%20Greater%20London
-
 <b>Printed in A4 format:</b>
 
 [DIG Activities](https://github.com/RubyNixx/Career_Day_Content/blob/main/NHS%20DIG%20Activities%20and%20Website%20-%20Career%20Days.docx)
@@ -26,3 +22,11 @@ Sources:
 
 ![1745416224477](https://github.com/user-attachments/assets/4a5ce2e7-14a1-4ff2-95fd-a8f7494d85a8)
 
+
+
+Sources:
+- https://www.stepintothenhs.nhs.uk/careers
+- https://findapprenticeshiptraining.apprenticeships.education.gov.uk/courses/80?location=London%20Fields,%20Greater%20London
+- https://digdata.online/nhs-apprenticeship-career-panel/
+- https://www.sbs.nhs.uk/services/framework-agreements/apprenticeship-training-services/
+- https://digdata.online/nhs-graduate-live-recruitment-briefing/
